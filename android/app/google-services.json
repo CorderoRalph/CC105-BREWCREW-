@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84381357649",
+    "firebase_url": "https://rap-brew-crew.firebaseio.com",
+    "project_id": "rap-brew-crew",
+    "storage_bucket": "rap-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84381357649:android:1f13e63aa93c7b239e4a70",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84381357649-j0prc6dmetjgaghbeuesghcud7q8vgdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CXitI_Mp8UMbFuf7ssQJzegm-he1HOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84381357649-j0prc6dmetjgaghbeuesghcud7q8vgdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
